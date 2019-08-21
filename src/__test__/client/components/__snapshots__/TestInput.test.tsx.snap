@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/TestInput Hello mounts properly 1`] = `
+<div>
+  <div>
+    <input
+      aria-label="test-input"
+      type="text"
+      value=""
+    />
+    <button>
+      Get New Name
+    </button>
+  </div>
+</div>
+`;

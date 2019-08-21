@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Hello Hello mounts properly 1`] = `
+<div>
+  <div>
+    <h1
+      data-testid="string-data"
+    >
+      Hello from 
+      TypeScript
+       and 
+      React
+      !
+    </h1>
+    <div>
+      <input
+        aria-label="test-input"
+        type="text"
+        value=""
+      />
+      <button>
+        Get New Name
+      </button>
+    </div>
+  </div>
+</div>
+`;
