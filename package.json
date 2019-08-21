@@ -1,5 +1,5 @@
 {
-  "name": "slackdeletron-api",
+  "name": "typescript-fullstack",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server/index.js",
